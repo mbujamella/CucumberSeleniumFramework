@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Innovate" max_length="40" name="x_500624_innovate_innovate" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label=" Description" max_length="1000" name="description" type="string"/>
+        <element label="Idea implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Process" label=" Idea type" mandatory="true" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element dependent_value="Process Improvement" inactive="true" inactive_on_update="true" label="Process" sequence="0" value="Process Improvement"/>
+                <element dependent_value="Process Improvement" inactive="true" inactive_on_update="true" label="Process" sequence="0" value="Process Improvement"/>
+                <element inactive_on_update="false" label="Process Improvement" sequence="0" value="Process"/>
+                <element inactive_on_update="false" label="Cost Savings" sequence="1" value="cost"/>
+                <element dependent_value="Team Building" inactive="true" inactive_on_update="true" label="Team" sequence="1" value="Team Building"/>
+                <element inactive_on_update="false" label="Team Building" sequence="2" value="Team"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="125" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Created" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="Cupcakes for all Employees for upcoming Holiday." label="Description" mandatory="true" max_length="1000" name="u_string_1" type="string"/>
+    </element>
+</database>

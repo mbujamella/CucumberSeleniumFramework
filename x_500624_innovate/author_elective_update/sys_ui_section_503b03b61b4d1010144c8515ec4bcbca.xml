@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="503b03b61b4d1010144c8515ec4bcbca" sys_domain="global" table="x_500624_innovate_innovate" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-01 04:03:33</sys_created_on>
+            <sys_id>353b43b61b4d1010144c8515ec4bcb4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_500624_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">503b03b61b4d1010144c8515ec4bcbca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-01 04:03:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_500624_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-01 04:03:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>503b03b61b4d1010144c8515ec4bcbca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_500624_innovate">f45f5e3a1bc91010144c8515ec4bcb4e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">f45f5e3a1bc91010144c8515ec4bcb4e</sys_scope>
+            <sys_update_name>sys_ui_section_503b03b61b4d1010144c8515ec4bcbca</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-01 04:03:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate">f45f5e3a1bc91010144c8515ec4bcb4e</application>
+        <file_path/>
+        <instance_id>5b0c3c12dbc39f047e55d5b0cf961991</instance_id>
+        <instance_name>dev63624</instance_name>
+        <name>sys_ui_section_503b03b61b4d1010144c8515ec4bcbca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="503b03b61b4d1010144c8515ec4bcbca" sys_domain="global" table="x_500624_innovate_innovate" version="3" view="advanced"><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-01 04:03:33</sys_created_on><sys_id>353b43b61b4d1010144c8515ec4bcb4e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_500624_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">503b03b61b4d1010144c8515ec4bcbca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-01 04:03:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_500624_innovate_innovate</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-01 04:03:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>503b03b61b4d1010144c8515ec4bcbca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="Innovate" source="x_500624_innovate">f45f5e3a1bc91010144c8515ec4bcb4e</sys_package><sys_policy/><sys_scope display_value="Innovate">f45f5e3a1bc91010144c8515ec4bcb4e</sys_scope><sys_update_name>sys_ui_section_503b03b61b4d1010144c8515ec4bcbca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-01 04:03:26</sys_updated_on><sys_user/><title>false</title><view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1794950195</payload_hash>
+        <record_name>Innovate</record_name>
+        <reverted_from/>
+        <source>785f9eba1bc91010144c8515ec4bcbc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 04:03:33</sys_created_on>
+        <sys_id>793b43b61b4d1010144c8515ec4bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1726e0c821b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 04:03:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f13b43b6134d1010311a2c2cea3c304f</update_guid>
+        <update_guid_history>f13b43b6134d1010311a2c2cea3c304f:1794950195,903b03b66c4d10102714666ea0fdadee:1265500116</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 04:17:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1d129f89bea8448f9e2c5ea91ffd10b1</sys_id>
+        <sys_metadata>503b03b61b4d1010144c8515ec4bcbca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Innovate" source="x_500624_innovate">f45f5e3a1bc91010144c8515ec4bcb4e</sys_package>
+        <sys_parent display_value="Innovate">f621223e1bc91010144c8515ec4bcb3e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">f45f5e3a1bc91010144c8515ec4bcb4e</sys_scope>
+        <sys_scope_delete display_value="">0e0632c15c644464b3493c0e1361e110</sys_scope_delete>
+        <sys_update_name>sys_ui_section_503b03b61b4d1010144c8515ec4bcbca</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_503b03b61b4d1010144c8515ec4bcbca">793b43b61b4d1010144c8515ec4bcb4f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 04:17:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
